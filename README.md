@@ -49,5 +49,5 @@ Nota: Você pode optar por emular no Expo, para isso você precisara ler o QR Co
 
 ## Licença
 
-Este projeto está licenciado sob a Licença MIT - consulte a página [LICENSE] (https://opensource.org/licenses/MIT) para obter detalhes.
+Este projeto está licenciado sob a Licença MIT - consulte a página [LICENSE](https://opensource.org/licenses/MIT) para obter detalhes.
 
